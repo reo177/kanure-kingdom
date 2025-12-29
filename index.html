@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>かぬれ王国 - 公式WEBサイト</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <!-- ヘッダー -->
+        <header class="header">
+            <div class="header-content">
+                <div class="logo">
+                    <h1>かぬれ王国</h1>
+                    <p class="subtitle">Kanure Kingdom</p>
+                </div>
+                <nav class="nav">
+                    <a href="#home" class="nav-link active">ホーム</a>
+                    <a href="#about" class="nav-link">サーバーについて</a>
+                    <a href="#rules" class="nav-link">ルール</a>
+                </nav>
+            </div>
+        </header>
+
+        <!-- ヒーローセクション -->
+        <section id="home" class="hero">
+            <div class="hero-banner">
+                <div class="hero-content">
+                    <div class="server-info-section">
+                        <h2 class="server-name" id="server-name">かぬれ王国</h2>
+                        <p class="server-subtitle" id="server-subtitle">Kanure Kingdom</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- サーバーについて -->
+        <section id="about" class="section">
+            <div class="section-content">
+                <h2 class="section-title">サーバーについて</h2>
+                <div class="about-content">
+                    <div class="about-text">
+                        <div class="info-box">
+                            <h3>創設日</h3>
+                            <p id="created-date">2025年11月</p>
+                        </div>
+                        <div class="info-box">
+                            <h3>サーバー説明</h3>
+                            <p id="server-description-text">かぬれだよ、あは。</p>
+                        </div>
+                        <div class="info-box">
+                            <h3>前提サーバー</h3>
+                            <div class="prerequisite-servers" id="prerequisite-servers">
+                                <!-- 前提サーバーはJSで動的に生成 -->
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- 責任者・管理者・副官セクション -->
+                    <div class="staff-section">
+                        <h3 class="staff-title">責任者・管理者・副官</h3>
+                        <div class="staff-grid" id="staff-grid">
+                            <!-- 責任者・管理者・副官はJSで動的に生成 -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ルールセクション -->
+        <section id="rules" class="section">
+            <div class="section-content">
+                <h2 class="section-title">サーバールール</h2>
+                <div class="rules-list" id="rules-list">
+                    <!-- ルールはJSで動的に生成 -->
+                </div>
+            </div>
+        </section>
+
+        <!-- フッター -->
+        <footer class="footer">
+            <div class="footer-content">
+                <p>&copy; 2024-2025 かぬれ王国. All rights reserved.</p>
+                <p class="footer-note">Made with ❤️ for かぬれ王国</p>
+            </div>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+

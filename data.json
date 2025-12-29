@@ -1,0 +1,151 @@
+{
+  "server": {
+    "name": "かぬれ王国",
+    "description": "かぬれさんと仲良くなった上に他の人とも仲を深めたら入れるサーバー かぬれさんがメンヘラなだけあってメンヘラだらけ",
+    "memberSince": "2024年9月27日",
+    "inviteLink": "https://discord.gg/kanure"
+  },
+  "profile": {
+    "displayName": "かぬれ",
+    "username": "god_kanure",
+    "status": "忘れないでね、忘れてしまった事",
+    "badge": "依存症",
+    "aboutMe": "かぬれだよ、あは。",
+    "roles": [
+      {
+        "name": "オーナー",
+        "color": "owner"
+      },
+      {
+        "name": "admin",
+        "color": "admin"
+      },
+      {
+        "name": "鯖民",
+        "color": "member"
+      }
+    ]
+  },
+  "admins": [
+    {
+      "name": "かぬれ",
+      "role": "オーナー",
+      "username": "god_kanure",
+      "avatar": "画像/かぬれ ico.jpg",
+      "status": "",
+      "aboutMe": "かぬれだよ、あは。",
+      "badge": "依存症",
+      "socialLinks": {
+        "x": "https://x.com/kanu18_"
+      },
+      "introduction": "かぬれ王国のサーバー主、かぬれです。みんなで楽しく過ごせる場所を作りたいと思っています。かぬれだよ、あは。"
+    },
+    {
+      "name": "KamikazeMitDieKatze(=^-^=)ノ",
+      "role": "副官",
+      "username": "kamikaze314",
+      "avatar": "画像/神風 ico.png",
+      "status": "神風唯織、御影蛍、神代あおい。",
+      "aboutMe": "神風唯織、御影蛍、神代あおい。",
+      "badge": ""
+    },
+    {
+      "name": "reika (サバ缶)",
+      "role": "副官",
+      "username": "lwa70d3",
+      "avatar": "画像/reika ico.jpg",
+      "status": "fall into the night",
+      "aboutMe": "年齢にそぐわぬ声をしている。私の勘と行動力は最強!!! Q.E.D. 証明完了!!!!",
+      "badge": "依存症",
+      "socialLinks": {
+        "x": "https://x.com/LwA70D3",
+        "youtube": "https://www.youtube.com/@LwA70D3",
+        "website1": "https://laevateinn.vercel.app",
+        "website2": "https://reika-one.vercel.app"
+      }
+    }
+  ],
+  "members": [
+    {
+      "name": "愛来",
+      "role": "メンバー",
+      "avatar": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "メンバー1",
+      "role": "admin",
+      "avatar": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "メンバー2",
+      "role": "鯖民",
+      "avatar": "https://via.placeholder.com/150"
+    }
+  ],
+  "rules": [
+    {
+      "number": 1,
+      "title": "利用規約への同意",
+      "description": "Discord利用規約および本サーバーの利用規約に同意してください。役割付与時点で同意したものとみなします。"
+    },
+    {
+      "number": 2,
+      "title": "寛容な心を持って",
+      "description": "精神的に不安定な方もいる可能性があるため、暴言やネガティブな発言には寛容な心を持って接してください。"
+    },
+    {
+      "number": 3,
+      "title": "年齢・学歴は関係なし",
+      "description": "年齢や学歴に関係なく、レスバ以外で喧嘩せず普通に接してください。レスバ以外で喧嘩が続く場合はタイムアウトします。"
+    },
+    {
+      "number": 4,
+      "title": "リア充への対応",
+      "description": "リア充が嫌いな方は、リア充に絡まず離れるか気にせず接してください。"
+    },
+    {
+      "number": 5,
+      "title": "部屋作成のリクエスト",
+      "description": "新しい部屋を作りたい場合は、リクエスト部屋でお願いします。"
+    },
+    {
+      "number": 6,
+      "title": "犯罪行為・迷惑行為の禁止",
+      "description": "犯罪行為や迷惑行為が発覚した場合、サーバーから追放します。場合によっては警察に通報することもあります。"
+    },
+    {
+      "number": 7,
+      "title": "基本的に自由",
+      "description": "他人に迷惑をかける行為を行わない限り、基本的に自由に行動していただいて構いません。"
+    },
+    {
+      "number": 8,
+      "title": "違反の報告",
+      "description": "規約違反を発見した場合は、鯖缶の誰かに報告してください。"
+    }
+  ],
+  "stats": {
+    "members": 64,
+    "online": 19,
+    "channels": 12
+  },
+  "serverInfo": {
+    "createdAt": "2025年11月",
+    "inviteUrl": "https://discord.gg/kanure",
+    "inviteExpiry": "無期限",
+    "inviteUses": "無制限"
+  },
+  "prerequisiteServers": [
+    {
+      "name": "前提サーバー1",
+      "inviteUrl": "https://discord.gg/bRZc8mU8BX",
+      "owner": "lwa70d3"
+    },
+    {
+      "name": "前提サーバー2",
+      "inviteUrl": "https://discord.gg/Rjekxj6Cea",
+      "owner": "lwa70d3"
+    }
+  ]
+}
+
